@@ -12,7 +12,7 @@ import { Navbar } from "./component/navbar";
 
 //create your first component
 const Layout = () => {
-    const basename = process.env.BASENAME || "";
+    const basename = process.env.basename || "";
 
     return (
         <div>

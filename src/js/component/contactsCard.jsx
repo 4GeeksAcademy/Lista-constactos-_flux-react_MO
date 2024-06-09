@@ -20,8 +20,8 @@ export const Contact = () => {
         actions.setIdForUpdate(id, name, address, phone, email);
     }
 
-    let urlImage1 = "https://picsum.photos/id/";
-    let urlImage2 = "/200/200";
+    let urlImage1 = "https://picsum.photos/id/237/";
+
 
     return (
         <div>
